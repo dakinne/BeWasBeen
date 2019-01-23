@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "390191195073",
+    "firebase_url": "https://noox-bewasbeen.firebaseio.com",
+    "project_id": "noox-bewasbeen",
+    "storage_bucket": "noox-bewasbeen.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390191195073:android:f7ee994a9e8bd6c3",
+        "android_client_info": {
+          "package_name": "com.noox.bewasbeen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "390191195073-5ocai2veu7tbtb7rnt9g3riblc8p559p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5nzhlY01ZuWfd96sOpG1I6lXktA3q2ow"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
